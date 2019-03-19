@@ -16,3 +16,4 @@ prependKitten(name)
 
 removeLastKitten()
 
+removeFirstKitten()
