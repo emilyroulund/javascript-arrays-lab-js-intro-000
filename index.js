@@ -7,3 +7,5 @@ destructivelyAppendKitten(name)
 destructivelyAppendKitten(name) 
 
 destructivelyRemoveLastKitten()
+
+destructivelyRemoveFirstKitten()
