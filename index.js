@@ -5,3 +5,5 @@ var kittens = ['Milo', 'Otis', 'Garfield'] //define your array here
 destructivelyAppendKitten(name) 
 
 destructivelyAppendKitten(name) 
+
+destructivelyRemoveLastKitten()
